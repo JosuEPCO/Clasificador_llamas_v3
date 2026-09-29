@@ -1,0 +1,8 @@
+# PyTorch solo CPU: mucho más liviano que la versión con CUDA (ideal para Streamlit Cloud)
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+streamlit==1.64.0
+ultralytics==8.4.165
+torch==2.14.0
+torchvision==0.29.0
+pillow==12.3.0
